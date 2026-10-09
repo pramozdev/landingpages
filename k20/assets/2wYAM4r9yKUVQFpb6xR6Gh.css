@@ -1,0 +1,16 @@
+@font-face {
+  font-family: 'Avenir Medium / Black';
+  src: url(https://user.lpcontent.net/fonts/RGSDrWjJmZpUJpXMbFnRZY/2wYAM4r9yKUVQFpb6xR6Gh/5T4gjCARYqRoY8aicfAWYG.woff2?time=1740581846) format('woff2'),
+       url(https://user.lpcontent.net/fonts/RGSDrWjJmZpUJpXMbFnRZY/2wYAM4r9yKUVQFpb6xR6Gh/5T4gjCARYqRoY8aicfAWYG.woff?time=1740581846) format('woff');
+  font-weight: 400;
+  font-style: regular;
+}
+
+@font-face {
+  font-family: 'Avenir Medium / Black';
+  src: url(https://user.lpcontent.net/fonts/RGSDrWjJmZpUJpXMbFnRZY/2wYAM4r9yKUVQFpb6xR6Gh/GYRen2ayS7PHLXhzV3qQwR.woff2?time=1740581846) format('woff2'),
+       url(https://user.lpcontent.net/fonts/RGSDrWjJmZpUJpXMbFnRZY/2wYAM4r9yKUVQFpb6xR6Gh/GYRen2ayS7PHLXhzV3qQwR.woff?time=1740581846) format('woff');
+  font-weight: 700;
+  font-style: regular;
+}
+
